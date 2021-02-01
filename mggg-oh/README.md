@@ -65,3 +65,5 @@ All of the following files were accessed on 1/29/2021:
 ## File processing
 
 `mggg_oh.ipynb` is the script that should be the basis of the validation report
+
+`get_2010_boundary_bg_b.ipynb` is for pulling Census Block demographic data & shapefile
