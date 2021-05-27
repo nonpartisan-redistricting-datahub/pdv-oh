@@ -19,12 +19,12 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 - File: Election Results, SOS 2018
    - Date accessed: 5/24/2021
    - Link: https://www.sos.state.oh.us/elections/election-results-and-data/2018-official-elections-results/
-   - File: `2018-11-06_statewideprecinct_miami.xlsx`
+   - File: `2018-11-06_statewideprecinct_miami.xlsx` (available upon request)
    - Note: selected "Precinct-Level Results by County - Statewide and District Offices As Amended by Miami County (XLSX)". 
 - File: Precinct Shapefile, 2020 
    - Date accessed: 5/26/2021
    - Link: https://www2.census.gov/geo/tiger/TIGER2020PL/STATE/39_OHIO/39/
-   - File: `tl_2020_39_vtd20.zip`
+   - File: `tl_2020_39_vtd20.zip` (available upon request)
    - Note: VEST refers to their precinct shapefile source as 'the U.S. Census Bureau's 2020 Redistricting Data Program final release'. We believe this is the 2020 TIGER/Line VTD file. 
 
 ## File processing:
