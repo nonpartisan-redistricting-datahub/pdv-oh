@@ -16,16 +16,16 @@ View the final report [here](https://redistrictingdatahub.org/dataset/mggg-ohio-
 
 RDH's partner data validation for VEST's 2016 OH file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4499005&datasetVersionId=246983).
 
-#### _In progress as of 5/27/21_
+View the final report [here](https://redistrictingdatahub.org/dataset/vest-2016-ohio-precinct-and-election-results/). 
 
 ## vest-oh-2018
 
 RDH's partner data validation for VEST's 2018 OH file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4499067&version=36.0).
 
-#### _In progress as of 5/27/21_
+View the final report [here](https://redistrictingdatahub.org/dataset/vest-2018-ohio-precinct-and-election-results/). 
 
 ## vest-oh-2020
 
 RDH's partner data validation for VEST's 2020 OH file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4499012&version=5.0).
 
-#### _In progress as of 5/27/21_
+View the final report [here](https://redistrictingdatahub.org/dataset/vest-2020-ohio-precinct-and-election-results/). 
